@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\bin\Debug\net8.0\ConsoleAppUpdatedVersion.exe
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\bin\Debug\net8.0\ConsoleAppUpdatedVersion.deps.json
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\bin\Debug\net8.0\ConsoleAppUpdatedVersion.runtimeconfig.json
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\bin\Debug\net8.0\ConsoleAppUpdatedVersion.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\bin\Debug\net8.0\ConsoleAppUpdatedVersion.pdb
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\refint\ConsoleAppUpdatedVersion.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.pdb
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ref\ConsoleAppUpdatedVersion.dll
