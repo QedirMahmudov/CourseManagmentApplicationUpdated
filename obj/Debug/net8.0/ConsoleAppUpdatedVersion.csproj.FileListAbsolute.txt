@@ -12,3 +12,4 @@ C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debu
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.pdb
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ref\ConsoleAppUpdatedVersion.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\ConsoleAppUpdatedVersion\obj\Debug\net8.0\ConsoleAppUpdatedVersion.sourcelink.json

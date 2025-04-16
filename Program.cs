@@ -48,6 +48,9 @@ do
 
 // ========================== METODLAR ========================== //
 
+
+
+
 void CreateGroup(List<Group> groups)
 {
     string categoryInput;
@@ -58,51 +61,66 @@ void CreateGroup(List<Group> groups)
         Console.Write("Grup No: ");
         string groupNo = Console.ReadLine();
 
-        Console.WriteLine("Kateqoriya seçin:");
-        Console.WriteLine("1. Programming");
-        Console.WriteLine("2. Design");
-        Console.WriteLine("3. System Administration");
-        Console.Write("Secim: ");
-        categoryInput = Console.ReadLine();
+
 
         CourseCategoryEnum category;
 
-        switch (categoryInput)
+        while (true)
         {
-            case "1":
-                category = CourseCategoryEnum.Programming;
-                break;
-            case "2":
-                category = CourseCategoryEnum.Design;
-                break;
-            case "3":
-                category = CourseCategoryEnum.SystemAdministration;
-                break;
-            default:
-                Console.WriteLine("Yanlis Secim!");
-                continue;
-        }
+            Console.WriteLine("Kateqoriya seçin:");
+            Console.WriteLine("1. Programming");
+            Console.WriteLine("2. Design");
+            Console.WriteLine("3. System Administration");
+            Console.Write("Secim: ");
+            categoryInput = Console.ReadLine();
 
-        Console.WriteLine("IsOnline: ");
-        Console.WriteLine("1. Online");
-        Console.WriteLine("2. Eyani");
-        Console.Write("Secim: ");
-        onlineInput = Console.ReadLine();
+
+            switch (categoryInput)
+            {
+                case "1":
+                    category = CourseCategoryEnum.Programming;
+                    break;
+                case "2":
+                    category = CourseCategoryEnum.Design;
+                    break;
+                case "3":
+                    category = CourseCategoryEnum.SystemAdministration;
+                    break;
+                default:
+                    Console.WriteLine("Yanlis Secim!");
+                    continue;
+            }
+            break;
+        }
 
         bool isOnline;
 
-        switch (onlineInput)
+
+        while (true)
         {
-            case "1":
-                isOnline = true;
-                break;
-            case "2":
-                isOnline = false;
-                break;
-            default:
-                Console.WriteLine("Secim Yanlisdir!");
-                continue;
+            Console.WriteLine("IsOnline: ");
+            Console.WriteLine("1. Online");
+            Console.WriteLine("2. Eyani");
+            Console.Write("Secim: ");
+            onlineInput = Console.ReadLine();
+
+
+            switch (onlineInput)
+            {
+                case "1":
+                    isOnline = true;
+                    break;
+                case "2":
+                    isOnline = false;
+                    break;
+                default:
+                    Console.WriteLine("Secim Yanlisdir!");
+                    continue;
+            }
+            break;
         }
+
+
 
         try
         {
@@ -117,6 +135,10 @@ void CreateGroup(List<Group> groups)
         }
     }
 }
+
+
+
+
 
 void GetAllGroup(List<Group> groups)
 {
@@ -330,3 +352,9 @@ void CreateStudent(List<Group> groups)
         }
     }
 }
+
+
+
+
+
+
